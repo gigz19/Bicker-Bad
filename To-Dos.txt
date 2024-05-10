@@ -1,0 +1,6 @@
+- [x] moving
+- [x] Lock Rotation and y
+- [ ] move group
+- [ ] pin camera
+- [ ] mousee core calculation
+- [ ] shield 
