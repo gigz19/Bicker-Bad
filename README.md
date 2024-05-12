@@ -1,6 +1,8 @@
 - [x] moving
 - [x] Lock Rotation and y
-- [ ] move group
-- [ ] pin camera
+- [x] move group
+- [x] pin camera
 - [ ] mousee core calculation
 - [ ] shield 
+- [x] Shoot 
+- [ ]Delete shot cubes
