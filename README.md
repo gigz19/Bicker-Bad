@@ -1,8 +1,7 @@
-- [x] moving
-- [x] Lock Rotation and y
-- [x] move group
-- [x] pin camera
-- [ ] mousee core calculation
-- [ ] shield 
-- [x] Shoot 
-- [ ]Delete shot cubes
+- [x] Ai Plane
+- [ ] Player hit box
+- [x] bullet behavior 
+- [ ] enemies spawn
+- [ ] enemy fuckery
+- [ ] enemies shoot 
+- [ ] 
