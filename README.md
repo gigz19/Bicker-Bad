@@ -8,3 +8,5 @@
 	- [ ] Can't shoot if all my cubes are dead
 - Cubes 
 	- [ ] Camera Shakes when it is destroyed
+- Environment
+	- [ ] Fix NavAgentMesh
