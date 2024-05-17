@@ -1,7 +1,10 @@
-- [x] Ai Plane
-- [ ] Player hit box
-- [x] bullet behavior 
-- [ ] enemies spawn
-- [ ] enemy fuckery
-- [ ] enemies shoot 
-- [ ] 
+- Enemy
+	- [ ] Horiztontal Patrol
+	- [ ] Random Patrol (Zone 2)
+	- [ ] Area to notice player in
+-  Player 
+	- [ ] Gain new cubes
+	- [ ] Collide with Arena (Player ignore cubes)
+	- [ ] Can't shoot if all my cubes are dead
+- Cubes 
+	- [ ] Camera Shakes when it is destroyed
